@@ -19,7 +19,8 @@ body {
 
 .start_button,
 .info_box,
-.quiz_box{
+.quiz_box, 
+.result_box{
     position: absolute;
     top: 50%;
     left: 50%;
@@ -272,9 +273,6 @@ footer .next_btn:hover{
     align-items: center;
     flex-direction: column;
     justify-content: space-between;
-    margin-left: 735px;
-    pointer-events: none;
-    
 }
 
 .result_box .complete_text{
@@ -288,9 +286,8 @@ footer .next_btn:hover{
     font-size: 18px;
     font-weight: 500;
 }
-
 .score_text span p{
-    font-weight: 500;
+    font-weight: 600;
     padding: 0 4px;
 }
 
@@ -299,17 +296,15 @@ footer .next_btn:hover{
     margin: 20px 0;
 
 }
-
 .result_box .buttons button{
     margin: 0 10px;
-    height: 40px;
+    height: 45px;
     padding: 0 20px;
     border: none;
     outline: none;
     font-size: 18px;
     font-weight: 500;
     border-radius: 5px;
-    border: 1px solid #343a40;
+    border: 1px solid gray;
     cursor: pointer;
-    transition: all 0.3s ease;
 }
