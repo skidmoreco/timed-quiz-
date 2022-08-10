@@ -145,10 +145,17 @@ function recordEntry() {
     initials.style.display = "block";
     next_btn.textContent = "Submit!"
     next_btn.onclick =()=>{
-        console.log("This works!")
+        console.log(entryStorage);
     }
 }
-
+function entryStorage() {
+    initials = localStorage.getItem("initials")
+    scoreTracker = localStorage.getItem("scoreboard")
+    userInitialsSpan.textContent = initials;
+    userScoreboardSpan.textContent = scoreboard;
+    
+}
+//NEED MORE PRACTCE/TIME SPENT ON LOCAL STORAGE.. UNABLE TO SUCCESSFULL CODE THIS//
 
 function optionSelected(answer) {
     let userAns = answer.textContent;
