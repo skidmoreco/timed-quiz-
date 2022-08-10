@@ -3,7 +3,7 @@
 As an assignment for Ohio State Univeristy Bootcamp. We were required create a timed quiz/leadboard using HTML, CSS & JavaScript.
 ## Live Site:
 --- 
-[Github pages](https://skidmoreco.github.io/timed-quiz/)
+[Github pages](https://skidmoreco.github.io/timed-quiz-project/)
 
 ## SCREENSHOTS:
 ---
