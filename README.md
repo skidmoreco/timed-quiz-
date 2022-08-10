@@ -7,8 +7,8 @@ As an assignment for Ohio State Univeristy Bootcamp. We were required create a t
 
 ## SCREENSHOTS:
 ---
-<img src="./ASSETS/SC1.png" alt="Screenshot of quiz">
-<img src="./ASSETS/SC2.png" alt="Screenshot of question">
+<img src="./ASSETS/IMGS/SC1.png" alt="Screenshot of quiz">
+<img src="./ASSETS/IMGS/SC2.png" alt="Screenshot of question">
 
 
 
