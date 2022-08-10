@@ -1,5 +1,5 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-# password-generator
+# timed-quiz-project
 As an assignment for Ohio State Univeristy Bootcamp. We were required create a timed quiz/leadboard using HTML, CSS & JavaScript.
 ## Live Site:
 --- 
